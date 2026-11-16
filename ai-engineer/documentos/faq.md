@@ -13,7 +13,7 @@ A entrega leva 5 dias úteis depois da confirmação do pagamento. Assim que o p
 - **Aguardando pagamento:** ainda não recebemos a confirmação do pagamento. O boleto vence em 3 dias; depois disso, o pedido é cancelado.
 - **Em separação:** o pagamento foi confirmado e o pedido está sendo preparado no centro de distribuição.
 - **Enviado:** o pedido saiu do centro de distribuição e está com a transportadora.
-- **Entregue:** o pedido foi entregue no endereço ou retirado na loja.
+- **Entregue:** o pedido foi entregue no endereço do cliente.
 - **Cancelado:** o pedido foi cancelado, por falta de pagamento ou a pedido do cliente.
 
 ### Posso mudar o endereço de entrega?
@@ -49,7 +49,7 @@ As bicicletas compradas no site chegam quase montadas: falta prender o guidão, 
 
 ### Vocês consertam bicicletas de outras marcas?
 
-Sim. Todas as lojas físicas têm oficina e atendem bicicletas de qualquer marca. O centro de distribuição não atende o público.
+Sim. Todas as lojas físicas têm oficina e atendem bicicletas de qualquer marca. Bicicletas elétricas são atendidas só nas oficinas de Pinheiros (São Paulo), Botafogo (Rio de Janeiro) e Batel (Curitiba). O centro de distribuição não atende o público.
 
 ### Como funciona a revisão gratuita?
 

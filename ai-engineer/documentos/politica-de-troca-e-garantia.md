@@ -12,7 +12,7 @@ Compras feitas na loja física não têm prazo de desistência, mas podem ser tr
 
 ## 2. Troca de tamanho, cor ou modelo
 
-- O prazo é de até 30 dias corridos, contados do recebimento (site) ou da retirada na loja.
+- O prazo é de até 30 dias corridos, contados do recebimento (site) ou da compra (loja física).
 - O produto precisa estar sem uso, sem riscos e com a nota fiscal. Bicicletas não podem ter rodado fora da loja: os pneus são conferidos na troca.
 - A troca pode ser feita em qualquer loja física. Nas compras do site, também dá para pedir a coleta pelo atendimento; a primeira coleta de cada pedido não tem custo.
 - Pedidos do site que ainda não foram enviados podem ter o tamanho ou a cor alterados pelo atendimento, sem custo, desde que haja estoque. Depois do envio, a troca segue as regras desta seção.
@@ -44,11 +44,11 @@ A garantia não cobre:
 
 ### Revisão gratuita
 
-Toda bicicleta nova tem direito a uma revisão gratuita em qualquer loja da rede, em até 60 dias depois da compra. A revisão inclui a regulagem de câmbio e freios, o aperto geral e a conferência dos raios.
+Toda bicicleta nova tem direito a uma revisão gratuita em qualquer loja da rede (as elétricas, só em Pinheiros, Botafogo e Batel), em até 60 dias depois da compra. A revisão inclui a regulagem de câmbio e freios, o aperto geral e a conferência dos raios.
 
 ### Como acionar a garantia
 
-1. Leve o produto a qualquer loja física com a nota fiscal ou o número do pedido.
+1. Leve o produto a qualquer loja física com a nota fiscal ou o número do pedido. Bicicletas elétricas só são atendidas nas lojas com oficina para elétricas: Pinheiros, Botafogo e Batel.
 2. A oficina analisa o produto em até 10 dias úteis.
 3. Se o defeito for confirmado, a peça é consertada ou trocada sem custo. Se o conserto não for feito em 30 dias, o cliente escolhe entre a troca do produto e a devolução do valor pago.
 
