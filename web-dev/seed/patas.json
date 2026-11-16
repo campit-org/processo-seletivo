@@ -1,0 +1,1221 @@
+{
+  "veterinarios": [
+    {
+      "id": 1,
+      "nome": "Helena Prado",
+      "especialidade": "clínica geral",
+      "email": "helena.prado@clinicapatas.example"
+    },
+    {
+      "id": 2,
+      "nome": "Rafael Nunes",
+      "especialidade": "cirurgia e ortopedia",
+      "email": "rafael.nunes@clinicapatas.example"
+    },
+    {
+      "id": 3,
+      "nome": "Camila Torres",
+      "especialidade": "dermatologia",
+      "email": "camila.torres@clinicapatas.example"
+    },
+    {
+      "id": 4,
+      "nome": "Bruno Siqueira",
+      "especialidade": "medicina felina",
+      "email": "bruno.siqueira@clinicapatas.example"
+    }
+  ],
+  "horarios_atendimento": [
+    {
+      "veterinario_id": 1,
+      "dia_semana": "segunda",
+      "inicio": "08:00",
+      "fim": "12:00"
+    },
+    {
+      "veterinario_id": 1,
+      "dia_semana": "segunda",
+      "inicio": "13:00",
+      "fim": "17:00"
+    },
+    {
+      "veterinario_id": 1,
+      "dia_semana": "terça",
+      "inicio": "08:00",
+      "fim": "12:00"
+    },
+    {
+      "veterinario_id": 1,
+      "dia_semana": "terça",
+      "inicio": "13:00",
+      "fim": "17:00"
+    },
+    {
+      "veterinario_id": 1,
+      "dia_semana": "quarta",
+      "inicio": "08:00",
+      "fim": "12:00"
+    },
+    {
+      "veterinario_id": 1,
+      "dia_semana": "quarta",
+      "inicio": "13:00",
+      "fim": "17:00"
+    },
+    {
+      "veterinario_id": 1,
+      "dia_semana": "quinta",
+      "inicio": "08:00",
+      "fim": "12:00"
+    },
+    {
+      "veterinario_id": 1,
+      "dia_semana": "quinta",
+      "inicio": "13:00",
+      "fim": "17:00"
+    },
+    {
+      "veterinario_id": 1,
+      "dia_semana": "sexta",
+      "inicio": "08:00",
+      "fim": "12:00"
+    },
+    {
+      "veterinario_id": 1,
+      "dia_semana": "sexta",
+      "inicio": "13:00",
+      "fim": "17:00"
+    },
+    {
+      "veterinario_id": 2,
+      "dia_semana": "segunda",
+      "inicio": "09:00",
+      "fim": "18:00"
+    },
+    {
+      "veterinario_id": 2,
+      "dia_semana": "quarta",
+      "inicio": "09:00",
+      "fim": "18:00"
+    },
+    {
+      "veterinario_id": 2,
+      "dia_semana": "sexta",
+      "inicio": "09:00",
+      "fim": "18:00"
+    },
+    {
+      "veterinario_id": 2,
+      "dia_semana": "sábado",
+      "inicio": "08:00",
+      "fim": "12:00"
+    },
+    {
+      "veterinario_id": 3,
+      "dia_semana": "terça",
+      "inicio": "13:00",
+      "fim": "20:00"
+    },
+    {
+      "veterinario_id": 3,
+      "dia_semana": "quinta",
+      "inicio": "13:00",
+      "fim": "20:00"
+    },
+    {
+      "veterinario_id": 4,
+      "dia_semana": "segunda",
+      "inicio": "14:00",
+      "fim": "20:00"
+    },
+    {
+      "veterinario_id": 4,
+      "dia_semana": "terça",
+      "inicio": "14:00",
+      "fim": "20:00"
+    },
+    {
+      "veterinario_id": 4,
+      "dia_semana": "quarta",
+      "inicio": "14:00",
+      "fim": "20:00"
+    },
+    {
+      "veterinario_id": 4,
+      "dia_semana": "quinta",
+      "inicio": "14:00",
+      "fim": "20:00"
+    },
+    {
+      "veterinario_id": 4,
+      "dia_semana": "sábado",
+      "inicio": "08:00",
+      "fim": "13:00"
+    }
+  ],
+  "tutores": [
+    {
+      "id": 1,
+      "nome": "Francisco Martins",
+      "telefone": "(11) 90000-0001",
+      "email": "francisco.martins1@example.com",
+      "criado_em": "2026-03-28"
+    },
+    {
+      "id": 2,
+      "nome": "Joana Cassiano",
+      "telefone": "(11) 90000-0002",
+      "email": "joana.cassiano2@example.com",
+      "criado_em": "2025-02-10"
+    },
+    {
+      "id": 3,
+      "nome": "Aylla Casa Grande",
+      "telefone": "(11) 90000-0003",
+      "email": "aylla.grande3@example.com",
+      "criado_em": "2024-02-01"
+    },
+    {
+      "id": 4,
+      "nome": "Nicole Aparecida",
+      "telefone": "(11) 90000-0004",
+      "email": "nicole.aparecida4@example.com",
+      "criado_em": "2024-01-13"
+    },
+    {
+      "id": 5,
+      "nome": "Maria Julia Abreu",
+      "telefone": "(11) 90000-0005",
+      "email": "maria.abreu5@example.com",
+      "criado_em": "2026-04-30"
+    },
+    {
+      "id": 6,
+      "nome": "Danilo Brito",
+      "telefone": "(11) 90000-0006",
+      "email": "danilo.brito6@example.com",
+      "criado_em": "2025-08-26"
+    },
+    {
+      "id": 7,
+      "nome": "Clarice Pastor",
+      "telefone": "(11) 90000-0007",
+      "email": "clarice.pastor7@example.com",
+      "criado_em": "2024-07-18"
+    },
+    {
+      "id": 8,
+      "nome": "Théo Farias",
+      "telefone": "(11) 90000-0008",
+      "email": "theo.farias8@example.com",
+      "criado_em": "2024-02-25"
+    },
+    {
+      "id": 9,
+      "nome": "Benjamin Castro",
+      "telefone": "(11) 90000-0009",
+      "email": "benjamin.castro9@example.com",
+      "criado_em": "2024-06-06"
+    },
+    {
+      "id": 10,
+      "nome": "Milena Correia",
+      "telefone": "(11) 90000-0010",
+      "email": "milena.correia10@example.com",
+      "criado_em": "2025-07-23"
+    },
+    {
+      "id": 11,
+      "nome": "Fernando Lima",
+      "telefone": "(11) 90000-0011",
+      "email": "fernando.lima11@example.com",
+      "criado_em": "2026-11-21"
+    },
+    {
+      "id": 12,
+      "nome": "Luana Costa",
+      "telefone": "(11) 90000-0012",
+      "email": "luana.costa12@example.com",
+      "criado_em": "2026-06-14"
+    },
+    {
+      "id": 13,
+      "nome": "Luigi da Costa",
+      "telefone": "(11) 90000-0013",
+      "email": "luigi.costa13@example.com",
+      "criado_em": "2026-04-14"
+    },
+    {
+      "id": 14,
+      "nome": "Rael Ribeiro",
+      "telefone": "(11) 90000-0014",
+      "email": "rael.ribeiro14@example.com",
+      "criado_em": "2025-04-17"
+    },
+    {
+      "id": 15,
+      "nome": "Maya Cunha",
+      "telefone": "(11) 90000-0015",
+      "email": "maya.cunha15@example.com",
+      "criado_em": "2026-05-10"
+    },
+    {
+      "id": 16,
+      "nome": "Esther Castro",
+      "telefone": "(11) 90000-0016",
+      "email": "esther.castro16@example.com",
+      "criado_em": "2024-05-20"
+    },
+    {
+      "id": 17,
+      "nome": "Stella Lima",
+      "telefone": "(11) 90000-0017",
+      "email": "stella.lima17@example.com",
+      "criado_em": "2026-11-03"
+    },
+    {
+      "id": 18,
+      "nome": "Lavínia Marques",
+      "telefone": "(11) 90000-0018",
+      "email": "lavinia.marques18@example.com",
+      "criado_em": "2024-02-26"
+    },
+    {
+      "id": 19,
+      "nome": "Eloá Santos",
+      "telefone": "(11) 90000-0019",
+      "email": "eloa.santos19@example.com",
+      "criado_em": "2025-02-21"
+    },
+    {
+      "id": 20,
+      "nome": "Otto das Neves",
+      "telefone": "(11) 90000-0020",
+      "email": "otto.neves20@example.com",
+      "criado_em": "2025-09-22"
+    },
+    {
+      "id": 21,
+      "nome": "Lunna Novais",
+      "telefone": "(11) 90000-0021",
+      "email": "lunna.novais21@example.com",
+      "criado_em": "2024-09-04"
+    },
+    {
+      "id": 22,
+      "nome": "Maria Luísa Borges",
+      "telefone": "(11) 90000-0022",
+      "email": "maria.borges22@example.com",
+      "criado_em": "2025-06-29"
+    },
+    {
+      "id": 23,
+      "nome": "Otávio Sousa",
+      "telefone": "(11) 90000-0023",
+      "email": "otavio.sousa23@example.com",
+      "criado_em": "2024-12-14"
+    },
+    {
+      "id": 24,
+      "nome": "Matteo Camargo",
+      "telefone": "(11) 90000-0024",
+      "email": "matteo.camargo24@example.com",
+      "criado_em": "2024-11-26"
+    },
+    {
+      "id": 25,
+      "nome": "Emanuel Fogaça",
+      "telefone": "(11) 90000-0025",
+      "email": "emanuel.fogaca25@example.com",
+      "criado_em": "2024-10-17"
+    },
+    {
+      "id": 26,
+      "nome": "Levi Camargo",
+      "telefone": "(11) 90000-0026",
+      "email": "levi.camargo26@example.com",
+      "criado_em": "2024-01-10"
+    },
+    {
+      "id": 27,
+      "nome": "Luiz Felipe Costela",
+      "telefone": "(11) 90000-0027",
+      "email": "luiz.costela27@example.com",
+      "criado_em": "2026-06-23"
+    },
+    {
+      "id": 28,
+      "nome": "Luana Correia",
+      "telefone": "(11) 90000-0028",
+      "email": "luana.correia28@example.com",
+      "criado_em": "2024-12-29"
+    },
+    {
+      "id": 29,
+      "nome": "Liz Alves",
+      "telefone": "(11) 90000-0029",
+      "email": "liz.alves29@example.com",
+      "criado_em": "2026-05-27"
+    },
+    {
+      "id": 30,
+      "nome": "Ágatha Casa Grande",
+      "telefone": "(11) 90000-0030",
+      "email": "agatha.grande30@example.com",
+      "criado_em": "2025-04-07"
+    },
+    {
+      "id": 31,
+      "nome": "Vitor Gabriel da Paz",
+      "telefone": "(11) 90000-0031",
+      "email": "vitor.paz31@example.com",
+      "criado_em": "2025-04-16"
+    },
+    {
+      "id": 32,
+      "nome": "Emanuella Gonçalves",
+      "telefone": "(11) 90000-0032",
+      "email": "emanuella.goncalves32@example.com",
+      "criado_em": "2024-05-04"
+    },
+    {
+      "id": 33,
+      "nome": "Antony Mendes",
+      "telefone": "(11) 90000-0033",
+      "email": "antony.mendes33@example.com",
+      "criado_em": "2026-02-11"
+    },
+    {
+      "id": 34,
+      "nome": "Raquel Marques",
+      "telefone": "(11) 90000-0034",
+      "email": "raquel.marques34@example.com",
+      "criado_em": "2025-03-04"
+    },
+    {
+      "id": 35,
+      "nome": "Yago Fogaça",
+      "telefone": "(11) 90000-0035",
+      "email": "yago.fogaca35@example.com",
+      "criado_em": "2026-10-07"
+    },
+    {
+      "id": 36,
+      "nome": "Mariah Carvalho",
+      "telefone": "(11) 90000-0036",
+      "email": "mariah.carvalho36@example.com",
+      "criado_em": "2024-11-01"
+    },
+    {
+      "id": 37,
+      "nome": "Henrique Vieira",
+      "telefone": "(11) 90000-0037",
+      "email": "henrique.vieira37@example.com",
+      "criado_em": "2024-11-12"
+    },
+    {
+      "id": 38,
+      "nome": "João Pedro Novais",
+      "telefone": "(11) 90000-0038",
+      "email": "joao.novais38@example.com",
+      "criado_em": "2024-04-26"
+    },
+    {
+      "id": 39,
+      "nome": "Pedro Miguel Fogaça",
+      "telefone": "(11) 90000-0039",
+      "email": "pedro.fogaca39@example.com",
+      "criado_em": "2024-07-15"
+    },
+    {
+      "id": 40,
+      "nome": "Maria Alice Garcia",
+      "telefone": "(11) 90000-0040",
+      "email": "maria.garcia40@example.com",
+      "criado_em": "2026-05-25"
+    }
+  ],
+  "pets": [
+    {
+      "id": 1,
+      "tutor_id": 1,
+      "nome": "Simba",
+      "especie": "gato",
+      "raca": "Persa",
+      "sexo": "macho",
+      "data_nascimento": "2017-08-24",
+      "peso_kg": 3.7,
+      "castrado": true
+    },
+    {
+      "id": 2,
+      "tutor_id": 1,
+      "nome": "Belinha",
+      "especie": "cão",
+      "raca": "Labrador",
+      "sexo": "fêmea",
+      "data_nascimento": "2013-04-07",
+      "peso_kg": 29.0,
+      "castrado": true
+    },
+    {
+      "id": 3,
+      "tutor_id": 2,
+      "nome": "Batata",
+      "especie": "gato",
+      "raca": "SRD",
+      "sexo": "fêmea",
+      "data_nascimento": "2009-06-19",
+      "peso_kg": 5.0,
+      "castrado": true
+    },
+    {
+      "id": 4,
+      "tutor_id": 2,
+      "nome": "Belinha",
+      "especie": "gato",
+      "raca": "Persa",
+      "sexo": "macho",
+      "data_nascimento": "2019-07-23",
+      "peso_kg": 4.1,
+      "castrado": false
+    },
+    {
+      "id": 5,
+      "tutor_id": 2,
+      "nome": "Simba",
+      "especie": "coelho",
+      "raca": "Mini Lop",
+      "sexo": "fêmea",
+      "data_nascimento": "2024-08-10",
+      "peso_kg": 1.8,
+      "castrado": false
+    },
+    {
+      "id": 6,
+      "tutor_id": 3,
+      "nome": "Tobias",
+      "especie": "gato",
+      "raca": "SRD",
+      "sexo": "fêmea",
+      "data_nascimento": "2022-04-18",
+      "peso_kg": 3.4,
+      "castrado": false
+    },
+    {
+      "id": 7,
+      "tutor_id": 3,
+      "nome": "Lili",
+      "especie": "cão",
+      "raca": "Golden Retriever",
+      "sexo": "macho",
+      "data_nascimento": "2014-05-27",
+      "peso_kg": 30.5,
+      "castrado": true
+    },
+    {
+      "id": 8,
+      "tutor_id": 4,
+      "nome": "Paçoca",
+      "especie": "cão",
+      "raca": "SRD",
+      "sexo": "fêmea",
+      "data_nascimento": "2014-05-28",
+      "peso_kg": 10.6,
+      "castrado": true
+    },
+    {
+      "id": 9,
+      "tutor_id": 4,
+      "nome": "Kiara",
+      "especie": "cão",
+      "raca": "Yorkshire",
+      "sexo": "macho",
+      "data_nascimento": "2015-08-17",
+      "peso_kg": 2.7,
+      "castrado": true
+    },
+    {
+      "id": 10,
+      "tutor_id": 5,
+      "nome": "Cacau",
+      "especie": "cão",
+      "raca": "Spitz Alemão",
+      "sexo": "fêmea",
+      "data_nascimento": "2011-02-16",
+      "peso_kg": 2.1,
+      "castrado": false
+    },
+    {
+      "id": 11,
+      "tutor_id": 6,
+      "nome": "Bento",
+      "especie": "gato",
+      "raca": "Persa",
+      "sexo": "fêmea",
+      "data_nascimento": "2013-07-08",
+      "peso_kg": 4.0,
+      "castrado": true
+    },
+    {
+      "id": 12,
+      "tutor_id": 6,
+      "nome": "Lola",
+      "especie": "gato",
+      "raca": "SRD",
+      "sexo": "macho",
+      "data_nascimento": "2024-04-12",
+      "peso_kg": 3.1,
+      "castrado": true
+    },
+    {
+      "id": 13,
+      "tutor_id": 7,
+      "nome": "Thor",
+      "especie": "cão",
+      "raca": "Yorkshire",
+      "sexo": "fêmea",
+      "data_nascimento": "2026-01-30",
+      "peso_kg": 2.1,
+      "castrado": true
+    },
+    {
+      "id": 14,
+      "tutor_id": 7,
+      "nome": "Mia",
+      "especie": "cão",
+      "raca": "SRD",
+      "sexo": "macho",
+      "data_nascimento": "2016-03-12",
+      "peso_kg": 10.6,
+      "castrado": true
+    },
+    {
+      "id": 15,
+      "tutor_id": 8,
+      "nome": "Amora",
+      "especie": "cão",
+      "raca": "Shih-tzu",
+      "sexo": "macho",
+      "data_nascimento": "2013-03-30",
+      "peso_kg": 6.4,
+      "castrado": true
+    },
+    {
+      "id": 16,
+      "tutor_id": 8,
+      "nome": "Chico",
+      "especie": "gato",
+      "raca": "SRD",
+      "sexo": "macho",
+      "data_nascimento": "2012-02-14",
+      "peso_kg": 4.1,
+      "castrado": false
+    },
+    {
+      "id": 17,
+      "tutor_id": 8,
+      "nome": "Nina",
+      "especie": "cão",
+      "raca": "Labrador",
+      "sexo": "macho",
+      "data_nascimento": "2026-03-15",
+      "peso_kg": 26.2,
+      "castrado": true
+    },
+    {
+      "id": 18,
+      "tutor_id": 9,
+      "nome": "Lola",
+      "especie": "coelho",
+      "raca": "Mini Lop",
+      "sexo": "fêmea",
+      "data_nascimento": "2024-07-29",
+      "peso_kg": 1.6,
+      "castrado": true
+    },
+    {
+      "id": 19,
+      "tutor_id": 9,
+      "nome": "Pipoca",
+      "especie": "cão",
+      "raca": "Shih-tzu",
+      "sexo": "fêmea",
+      "data_nascimento": "2018-12-11",
+      "peso_kg": 6.1,
+      "castrado": false
+    },
+    {
+      "id": 20,
+      "tutor_id": 10,
+      "nome": "Frida",
+      "especie": "gato",
+      "raca": "SRD",
+      "sexo": "fêmea",
+      "data_nascimento": "2022-09-10",
+      "peso_kg": 4.1,
+      "castrado": true
+    },
+    {
+      "id": 21,
+      "tutor_id": 10,
+      "nome": "Maya",
+      "especie": "cão",
+      "raca": "Shih-tzu",
+      "sexo": "macho",
+      "data_nascimento": "2024-07-16",
+      "peso_kg": 5.3,
+      "castrado": false
+    },
+    {
+      "id": 22,
+      "tutor_id": 11,
+      "nome": "Chico",
+      "especie": "gato",
+      "raca": "Siamês",
+      "sexo": "macho",
+      "data_nascimento": "2017-07-05",
+      "peso_kg": 4.9,
+      "castrado": true
+    },
+    {
+      "id": 23,
+      "tutor_id": 11,
+      "nome": "Floquinho",
+      "especie": "cão",
+      "raca": "Lhasa Apso",
+      "sexo": "macho",
+      "data_nascimento": "2013-10-28",
+      "peso_kg": 5.3,
+      "castrado": false
+    },
+    {
+      "id": 24,
+      "tutor_id": 12,
+      "nome": "Mia",
+      "especie": "cão",
+      "raca": "Spitz Alemão",
+      "sexo": "fêmea",
+      "data_nascimento": "2021-11-07",
+      "peso_kg": 2.8,
+      "castrado": false
+    },
+    {
+      "id": 25,
+      "tutor_id": 13,
+      "nome": "Simba",
+      "especie": "cão",
+      "raca": "Yorkshire",
+      "sexo": "macho",
+      "data_nascimento": "2024-07-01",
+      "peso_kg": 2.1,
+      "castrado": true
+    },
+    {
+      "id": 26,
+      "tutor_id": 13,
+      "nome": "Pandora",
+      "especie": "cão",
+      "raca": "Yorkshire",
+      "sexo": "macho",
+      "data_nascimento": "2012-03-04",
+      "peso_kg": 2.6,
+      "castrado": true
+    },
+    {
+      "id": 27,
+      "tutor_id": 14,
+      "nome": "Pipoca",
+      "especie": "gato",
+      "raca": "SRD",
+      "sexo": "fêmea",
+      "data_nascimento": "2019-08-09",
+      "peso_kg": 3.6,
+      "castrado": true
+    },
+    {
+      "id": 28,
+      "tutor_id": 14,
+      "nome": "Simba",
+      "especie": "gato",
+      "raca": "Persa",
+      "sexo": "macho",
+      "data_nascimento": "2020-11-23",
+      "peso_kg": 3.1,
+      "castrado": true
+    },
+    {
+      "id": 29,
+      "tutor_id": 14,
+      "nome": "Mia",
+      "especie": "cão",
+      "raca": "SRD",
+      "sexo": "fêmea",
+      "data_nascimento": "2014-01-27",
+      "peso_kg": 13.4,
+      "castrado": true
+    },
+    {
+      "id": 30,
+      "tutor_id": 15,
+      "nome": "Lili",
+      "especie": "gato",
+      "raca": "Siamês",
+      "sexo": "fêmea",
+      "data_nascimento": "2025-10-22",
+      "peso_kg": 3.3,
+      "castrado": true
+    },
+    {
+      "id": 31,
+      "tutor_id": 15,
+      "nome": "Juca",
+      "especie": "cão",
+      "raca": "Pinscher",
+      "sexo": "fêmea",
+      "data_nascimento": "2023-12-25",
+      "peso_kg": 4.2,
+      "castrado": false
+    },
+    {
+      "id": 32,
+      "tutor_id": 16,
+      "nome": "Mel",
+      "especie": "gato",
+      "raca": "SRD",
+      "sexo": "fêmea",
+      "data_nascimento": "2018-09-02",
+      "peso_kg": 5.2,
+      "castrado": true
+    },
+    {
+      "id": 33,
+      "tutor_id": 16,
+      "nome": "Bento",
+      "especie": "cão",
+      "raca": "Labrador",
+      "sexo": "fêmea",
+      "data_nascimento": "2023-12-01",
+      "peso_kg": 28.5,
+      "castrado": false
+    },
+    {
+      "id": 34,
+      "tutor_id": 17,
+      "nome": "Mel",
+      "especie": "cão",
+      "raca": "Shih-tzu",
+      "sexo": "macho",
+      "data_nascimento": "2014-01-30",
+      "peso_kg": 5.1,
+      "castrado": true
+    },
+    {
+      "id": 35,
+      "tutor_id": 17,
+      "nome": "Pandora",
+      "especie": "cão",
+      "raca": "Lhasa Apso",
+      "sexo": "fêmea",
+      "data_nascimento": "2013-04-09",
+      "peso_kg": 5.1,
+      "castrado": true
+    },
+    {
+      "id": 36,
+      "tutor_id": 19,
+      "nome": "Jade",
+      "especie": "cão",
+      "raca": "Shih-tzu",
+      "sexo": "fêmea",
+      "data_nascimento": "2021-04-17",
+      "peso_kg": 6.8,
+      "castrado": false
+    },
+    {
+      "id": 37,
+      "tutor_id": 19,
+      "nome": "Juca",
+      "especie": "cão",
+      "raca": "SRD",
+      "sexo": "fêmea",
+      "data_nascimento": "2014-07-09",
+      "peso_kg": 23.1,
+      "castrado": false
+    },
+    {
+      "id": 38,
+      "tutor_id": 19,
+      "nome": "Tom",
+      "especie": "cão",
+      "raca": "SRD",
+      "sexo": "fêmea",
+      "data_nascimento": "2014-07-10",
+      "peso_kg": 12.5,
+      "castrado": true
+    },
+    {
+      "id": 39,
+      "tutor_id": 20,
+      "nome": "Chico",
+      "especie": "gato",
+      "raca": "Siamês",
+      "sexo": "macho",
+      "data_nascimento": "2022-08-22",
+      "peso_kg": 4.1,
+      "castrado": false
+    },
+    {
+      "id": 40,
+      "tutor_id": 21,
+      "nome": "Cacau",
+      "especie": "cão",
+      "raca": "Shih-tzu",
+      "sexo": "fêmea",
+      "data_nascimento": "2012-06-18",
+      "peso_kg": 4.7,
+      "castrado": false
+    },
+    {
+      "id": 41,
+      "tutor_id": 23,
+      "nome": "Amora",
+      "especie": "gato",
+      "raca": "SRD",
+      "sexo": "macho",
+      "data_nascimento": "2025-05-09",
+      "peso_kg": 5.3,
+      "castrado": false
+    },
+    {
+      "id": 42,
+      "tutor_id": 23,
+      "nome": "Chico",
+      "especie": "cão",
+      "raca": "Pinscher",
+      "sexo": "fêmea",
+      "data_nascimento": "2021-06-12",
+      "peso_kg": 3.2,
+      "castrado": true
+    },
+    {
+      "id": 43,
+      "tutor_id": 24,
+      "nome": "Floquinho",
+      "especie": "cão",
+      "raca": "Spitz Alemão",
+      "sexo": "fêmea",
+      "data_nascimento": "2014-05-09",
+      "peso_kg": 3.3,
+      "castrado": false
+    },
+    {
+      "id": 44,
+      "tutor_id": 25,
+      "nome": "Nina",
+      "especie": "cão",
+      "raca": "SRD",
+      "sexo": "fêmea",
+      "data_nascimento": "2017-06-14",
+      "peso_kg": 23.2,
+      "castrado": false
+    },
+    {
+      "id": 45,
+      "tutor_id": 25,
+      "nome": "Simba",
+      "especie": "gato",
+      "raca": "Persa",
+      "sexo": "macho",
+      "data_nascimento": "2010-11-28",
+      "peso_kg": 4.6,
+      "castrado": true
+    },
+    {
+      "id": 46,
+      "tutor_id": 25,
+      "nome": "Kiara",
+      "especie": "cão",
+      "raca": "Labrador",
+      "sexo": "macho",
+      "data_nascimento": "2023-07-26",
+      "peso_kg": 36.0,
+      "castrado": true
+    },
+    {
+      "id": 47,
+      "tutor_id": 26,
+      "nome": "Bento",
+      "especie": "cão",
+      "raca": "Yorkshire",
+      "sexo": "macho",
+      "data_nascimento": "2013-08-07",
+      "peso_kg": 3.1,
+      "castrado": true
+    },
+    {
+      "id": 48,
+      "tutor_id": 26,
+      "nome": "Juca",
+      "especie": "coelho",
+      "raca": "Fuzzy Lop",
+      "sexo": "macho",
+      "data_nascimento": "2019-06-09",
+      "peso_kg": 1.8,
+      "castrado": true
+    },
+    {
+      "id": 49,
+      "tutor_id": 27,
+      "nome": "Paçoca",
+      "especie": "cão",
+      "raca": "Shih-tzu",
+      "sexo": "fêmea",
+      "data_nascimento": "2014-05-19",
+      "peso_kg": 4.6,
+      "castrado": true
+    },
+    {
+      "id": 50,
+      "tutor_id": 27,
+      "nome": "Bento",
+      "especie": "gato",
+      "raca": "SRD",
+      "sexo": "fêmea",
+      "data_nascimento": "2020-02-03",
+      "peso_kg": 3.9,
+      "castrado": false
+    },
+    {
+      "id": 51,
+      "tutor_id": 28,
+      "nome": "Maya",
+      "especie": "cão",
+      "raca": "Yorkshire",
+      "sexo": "fêmea",
+      "data_nascimento": "2026-06-13",
+      "peso_kg": 1.9,
+      "castrado": true
+    },
+    {
+      "id": 52,
+      "tutor_id": 29,
+      "nome": "Pipoca",
+      "especie": "gato",
+      "raca": "Persa",
+      "sexo": "macho",
+      "data_nascimento": "2014-08-10",
+      "peso_kg": 3.4,
+      "castrado": true
+    },
+    {
+      "id": 53,
+      "tutor_id": 29,
+      "nome": "Juca",
+      "especie": "cão",
+      "raca": "Border Collie",
+      "sexo": "macho",
+      "data_nascimento": "2015-02-10",
+      "peso_kg": 19.1,
+      "castrado": true
+    },
+    {
+      "id": 54,
+      "tutor_id": 30,
+      "nome": "Bolinha",
+      "especie": "cão",
+      "raca": "Lhasa Apso",
+      "sexo": "macho",
+      "data_nascimento": "2013-03-19",
+      "peso_kg": 5.4,
+      "castrado": false
+    },
+    {
+      "id": 55,
+      "tutor_id": 31,
+      "nome": "Lola",
+      "especie": "cão",
+      "raca": "Border Collie",
+      "sexo": "fêmea",
+      "data_nascimento": "2025-01-07",
+      "peso_kg": 17.7,
+      "castrado": false
+    },
+    {
+      "id": 56,
+      "tutor_id": 32,
+      "nome": "Chico",
+      "especie": "cão",
+      "raca": "Border Collie",
+      "sexo": "macho",
+      "data_nascimento": "2023-12-13",
+      "peso_kg": 19.0,
+      "castrado": false
+    },
+    {
+      "id": 57,
+      "tutor_id": 32,
+      "nome": "Luna",
+      "especie": "cão",
+      "raca": "Spitz Alemão",
+      "sexo": "macho",
+      "data_nascimento": "2024-10-22",
+      "peso_kg": 3.2,
+      "castrado": false
+    },
+    {
+      "id": 58,
+      "tutor_id": 33,
+      "nome": "Frida",
+      "especie": "cão",
+      "raca": "Labrador",
+      "sexo": "fêmea",
+      "data_nascimento": "2022-11-19",
+      "peso_kg": 30.6,
+      "castrado": true
+    },
+    {
+      "id": 59,
+      "tutor_id": 33,
+      "nome": "Lola",
+      "especie": "gato",
+      "raca": "Siamês",
+      "sexo": "fêmea",
+      "data_nascimento": "2015-08-07",
+      "peso_kg": 2.9,
+      "castrado": false
+    },
+    {
+      "id": 60,
+      "tutor_id": 34,
+      "nome": "Jade",
+      "especie": "cão",
+      "raca": "Labrador",
+      "sexo": "fêmea",
+      "data_nascimento": "2018-11-04",
+      "peso_kg": 29.5,
+      "castrado": false
+    },
+    {
+      "id": 61,
+      "tutor_id": 34,
+      "nome": "Juca",
+      "especie": "cão",
+      "raca": "SRD",
+      "sexo": "macho",
+      "data_nascimento": "2013-12-14",
+      "peso_kg": 15.3,
+      "castrado": true
+    },
+    {
+      "id": 62,
+      "tutor_id": 35,
+      "nome": "Paçoca",
+      "especie": "cão",
+      "raca": "Shih-tzu",
+      "sexo": "macho",
+      "data_nascimento": "2016-09-10",
+      "peso_kg": 6.4,
+      "castrado": true
+    },
+    {
+      "id": 63,
+      "tutor_id": 36,
+      "nome": "Paçoca",
+      "especie": "cão",
+      "raca": "SRD",
+      "sexo": "fêmea",
+      "data_nascimento": "2023-11-24",
+      "peso_kg": 17.8,
+      "castrado": false
+    },
+    {
+      "id": 64,
+      "tutor_id": 36,
+      "nome": "Juca",
+      "especie": "cão",
+      "raca": "Lhasa Apso",
+      "sexo": "fêmea",
+      "data_nascimento": "2019-04-12",
+      "peso_kg": 6.0,
+      "castrado": false
+    },
+    {
+      "id": 65,
+      "tutor_id": 37,
+      "nome": "Batata",
+      "especie": "gato",
+      "raca": "Persa",
+      "sexo": "macho",
+      "data_nascimento": "2012-06-18",
+      "peso_kg": 4.1,
+      "castrado": false
+    },
+    {
+      "id": 66,
+      "tutor_id": 37,
+      "nome": "Thor",
+      "especie": "cão",
+      "raca": "Golden Retriever",
+      "sexo": "fêmea",
+      "data_nascimento": "2022-10-13",
+      "peso_kg": 30.0,
+      "castrado": true
+    },
+    {
+      "id": 67,
+      "tutor_id": 38,
+      "nome": "Batata",
+      "especie": "cão",
+      "raca": "Spitz Alemão",
+      "sexo": "fêmea",
+      "data_nascimento": "2017-05-12",
+      "peso_kg": 3.3,
+      "castrado": true
+    },
+    {
+      "id": 68,
+      "tutor_id": 39,
+      "nome": "Bob",
+      "especie": "cão",
+      "raca": "Yorkshire",
+      "sexo": "fêmea",
+      "data_nascimento": "2012-05-22",
+      "peso_kg": 2.4,
+      "castrado": false
+    },
+    {
+      "id": 69,
+      "tutor_id": 39,
+      "nome": "Pandora",
+      "especie": "gato",
+      "raca": "SRD",
+      "sexo": "fêmea",
+      "data_nascimento": "2012-09-09",
+      "peso_kg": 3.2,
+      "castrado": false
+    },
+    {
+      "id": 70,
+      "tutor_id": 40,
+      "nome": "Nina",
+      "especie": "cão",
+      "raca": "SRD",
+      "sexo": "fêmea",
+      "data_nascimento": "2024-07-07",
+      "peso_kg": 24.5,
+      "castrado": false
+    },
+    {
+      "id": 71,
+      "tutor_id": 40,
+      "nome": "Luna",
+      "especie": "cão",
+      "raca": "Labrador",
+      "sexo": "fêmea",
+      "data_nascimento": "2019-09-21",
+      "peso_kg": 32.8,
+      "castrado": false
+    }
+  ]
+}
