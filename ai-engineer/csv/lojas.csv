@@ -1,0 +1,9 @@
+id,nome,tipo,cidade,uf,endereco,horario
+1,Pedal Certo Pinheiros,loja,São Paulo,SP,"Rua Vereador Clóvis Pedalino, 1180 - Pinheiros","seg a sex 10h-20h, sáb 10h-18h"
+2,Pedal Certo Moema,loja,São Paulo,SP,"Av. Engenheiro Aro Ventura, 2310 - Moema","seg a sex 10h-20h, sáb 10h-18h"
+3,Pedal Certo Santana,loja,São Paulo,SP,"Rua Doutora Celeste Guidão, 1520 - Santana","seg a sex 10h-20h, sáb 10h-18h"
+4,Pedal Certo Campinas,loja,Campinas,SP,"Av. Professor Raimundo Catraca, 900 - Cambuí","seg a sex 10h-20h, sáb 10h-18h"
+5,Pedal Certo Botafogo,loja,Rio de Janeiro,RJ,"Rua Almirante Corrente Neves, 310 - Botafogo","seg a sex 10h-20h, sáb 10h-18h"
+6,Pedal Certo Savassi,loja,Belo Horizonte,MG,"Rua Coronel Pedivela Souza, 1050 - Savassi","seg a sex 10h-20h, sáb 10h-18h"
+7,Pedal Certo Batel,loja,Curitiba,PR,"Av. Desembargador Selim Rocha, 1440 - Batel","seg a sex 10h-20h, sáb 10h-18h"
+8,Centro de Distribuição Cajamar,centro_distribuicao,Cajamar,SP,"Estrada Municipal do Cubo, 3300 - Cajamar",seg a sex 8h-17h

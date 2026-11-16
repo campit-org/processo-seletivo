@@ -1,0 +1,18 @@
+id,nome,categoria,aro,preco,descricao
+1,Trilha 29,mountain bike,29,4899.00,"MTB de alumínio, suspensão dianteira 100 mm, 1x12, freio a disco hidráulico"
+2,Trilha 29 Pro,mountain bike,29,8490.00,"MTB de carbono, suspensão dianteira 120 mm com trava remota, 1x12"
+3,Trilha 27.5,mountain bike,27.5,3999.00,"MTB de alumínio para iniciantes, 2x9, freio a disco mecânico"
+4,Urbana 700,urbana,28,2799.00,"Urbana aro 28 (700c), 8 velocidades, para-lamas e bagageiro"
+5,Urbana 500,urbana,26,1899.00,"Urbana aro 26, 7 velocidades, quadro rebaixado"
+6,Speed R2,speed,28,6290.00,"Speed de alumínio com garfo de carbono, 2x11, freio a disco"
+7,Elétrica E-City,elétrica,28,12900.00,"Urbana elétrica, motor 250 W no cubo traseiro, bateria 36 V 10,4 Ah"
+8,Dobrável Metrô,dobrável,20,3290.00,"Dobrável aro 20, 7 velocidades, dobra em 15 segundos"
+9,Pipoca 16,infantil,16,899.00,"Infantil aro 16 com rodinhas removíveis, de 4 a 6 anos"
+10,Pipoca 20,infantil,20,1099.00,"Infantil aro 20, 6 velocidades, de 7 a 10 anos"
+11,Capacete Urbano,acessório,,249.90,Capacete com luz traseira de LED
+12,Pneu Trilha 29x2.2,peça,29,189.90,Pneu tubeless ready para trilha
+13,Câmara de ar 700x35-45,peça,28,39.90,Câmara de ar com válvula presta
+14,Corrente 12v,peça,,249.00,Corrente para transmissões de 12 velocidades
+15,Pastilha de freio a disco,peça,,79.90,Par de pastilhas semimetálicas
+16,Bomba de ar de piso,acessório,,199.00,"Bomba com manômetro, válvulas presta e schrader"
+17,Cadeado U,acessório,,149.90,"Cadeado em U de aço endurecido, 2 chaves"
